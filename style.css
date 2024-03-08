@@ -34,6 +34,7 @@ body{
 }
 
 button{
+    width:100%;
     max-width: 100px;
     height: 13.5vh;
     max-height: 100px;
